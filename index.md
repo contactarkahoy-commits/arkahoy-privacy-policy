@@ -1,4 +1,4 @@
-# Privacy Policy – Arkahoy
+# Privacy Policy – Ark Ahoy!
 
 **Last updated:** 2026-02-13
 
