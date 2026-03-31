@@ -13,7 +13,7 @@ The developer of the App does not directly collect, store, or process personal d
 Any data processing related to advertising or purchases is handled by third-party service providers as described below.
 
 ## 3. Advertising
-The App displays advertisements using third-party advertising services (currently **Unity Ads**).
+The App displays advertisements using third-party advertising services (currently **LevelPlay**).
 
 These services may process device-related information and advertising identifiers in order to:
 - deliver advertisements,
