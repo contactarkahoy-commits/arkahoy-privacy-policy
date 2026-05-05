@@ -8,19 +8,27 @@ This Privacy Policy explains how information is processed when you use this mobi
 The App does not require user registration or account creation.
 
 ## 2. Data Controller
-The developer of the App does not directly collect, store, or process personal data on its own servers.
+The App may collect and process certain data through third-party services used within the App.
 
-Any data processing related to advertising or purchases is handled by third-party service providers as described below.
+These third-party services (such as advertising providers) may collect information including device identifiers and usage data to provide, improve, and support their services.
+
+The App uses third-party services that may collect information used to identify you, including but not limited to:
+
+- Advertising identifiers (such as Google Advertising ID)
+- Device information
+- App interaction data
+
+This data is used for advertising, analytics, and service functionality purposes.
 
 ## 3. Advertising
-The App displays advertisements using third-party advertising services (currently **LevelPlay**).
+The App uses third-party services such as LevelPlay (ironSource) and Unity Ads.
 
 These services may process device-related information and advertising identifiers in order to:
 - deliver advertisements,
 - measure ad performance,
 - comply with applicable legal obligations.
 
-The App itself does not access or store this data.
+The App itself does not directly control how this data is processed, as it is handled by third-party service providers.
 
 ## 4. Personalized and Non-Personalized Ads
 When you first use the App, you are asked to choose your advertising preference:
@@ -52,7 +60,7 @@ The App does not receive or store payment information.
 ## 7. Data Sharing
 The App does not sell personal data.
 
-Data related to advertising is processed by third-party advertising providers (such as Unity Ads) in accordance with their own privacy policies.
+Data related to advertising is processed by third-party advertising providers such as LevelPlay (ironSource) and Unity Ads in accordance with their own privacy policies.
 
 ## 8. Children’s Privacy
 The App is not intended to knowingly collect personal data from children.
